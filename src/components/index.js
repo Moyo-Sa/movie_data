@@ -1,4 +1,4 @@
-import Overview from "./overview";
+import Overview from "./Overview";
 import Genre from "./Genre";
 import Trial from "./Trial";
 import Popularity from "./Popularity";

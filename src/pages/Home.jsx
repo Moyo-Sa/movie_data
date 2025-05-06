@@ -72,7 +72,7 @@ const ContentSection = ({ section }) => {
 const Home = () => {
   const [isMobile, setIsMobile] = useState(false);
   const [isOpen, setIsOpen] = useState(!isMobile);
-  const [activeSection, setActiveSection] = useState("default");
+  const [activeSection, setActiveSection] = useState("overview");
 
   // Handle sidebar item click
   const handleNavClick = (section, event) => {

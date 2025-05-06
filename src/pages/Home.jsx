@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { X, Menu } from "lucide-react"; // or from 'react-icons/fi' or wherever you're using
 import {
   Overview,
   Genre,

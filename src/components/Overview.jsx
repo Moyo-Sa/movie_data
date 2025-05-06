@@ -18,7 +18,7 @@ const Overview = () => {
             This project explores how movie genre trends have changed over the
             years. In addition to tracking genre popularity over time, I also
             examine how factors like budget and box office success relate to
-            these trends, providing context for how and why certain genres rise
+            these trends, providing context for why certain genres rise
             or fall.
           </p>
         </Container>
